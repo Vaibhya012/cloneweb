@@ -1,2 +1,2 @@
-# cloneweb.github.io
+# cloneweb
 For public clone website
